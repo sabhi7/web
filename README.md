@@ -1,3 +1,3 @@
 web
 ===
-This is the web directory where all my test code residea
+This is the web directory where all my test code resides
